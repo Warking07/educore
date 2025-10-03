@@ -1,0 +1,19 @@
+# Node / React
+node_modules/
+dist/
+.vscode/
+.env
+
+# Logs
+*.log
+
+# SQL Server
+*.mdf
+*.ldf
+*.bak
+*.trn
+data/mssql/log/
+
+# Otros
+.DS_Store
+Thumbs.db
