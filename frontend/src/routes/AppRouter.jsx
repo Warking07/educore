@@ -6,6 +6,7 @@ import Courses from "../pages/Courses/Courses.jsx";
 import Grades from "../pages/Grades/Grades.jsx";
 import Attendance from "../pages/Attendance/Attendance.jsx";
 import Payments from "../pages/Payments/Payments.jsx";
+import Menu from "../pages/Menu/Menu.jsx";
 
 export default function AppRouter() {
   return (
