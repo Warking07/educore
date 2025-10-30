@@ -16,7 +16,7 @@
   animation: fadeIn 1s;
   transition: box-shadow 0.3s;
   font-family: "Courier New", Courier, monospace;
-  margin-left: 75%;
+  margin: 6vh auto 0 auto;
 }
 
 .form-pretitle {
