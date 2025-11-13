@@ -6,7 +6,7 @@ import {
   updateStudent,
   deleteStudent,
 } from './students.controller';
-
+/*
 const router = Router();
 
 router.get('/', getStudents);
@@ -16,3 +16,5 @@ router.put('/:id', updateStudent);
 router.delete('/:id', deleteStudent);
 
 export default router;
+
+*/
